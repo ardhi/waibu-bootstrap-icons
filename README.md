@@ -1,6 +1,6 @@
 # waibu-bootstrap-icons
 
-Plugin name: **waibuBootstrapIcons**, alias: **wbbsi**
+Plugin name: **waibuBootstrapIcons**, alias: **wbsi**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-bootstrap-icons) ![NPM Version](https://img.shields.io/npm/v/waibu-bootstrap-icons)
 

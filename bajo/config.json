@@ -1,4 +1,4 @@
 {
-  "alias": "wbbsi",
+  "alias": "wsi",
   "dependencies": ["waibu-mpa"]
 }
