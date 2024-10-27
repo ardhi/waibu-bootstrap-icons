@@ -149,6 +149,7 @@ const mapping = {
   genderMale: '',
   geomBbox: 'bounding-box',
   gift: '',
+  globe: 'globe2',
   grid: '',
   hammer: '',
   handbag: '',
