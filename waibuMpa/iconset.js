@@ -73,6 +73,7 @@ const mapping = {
   check: 'check2',
   checkAll: 'check2-all',
   circle: '',
+  circleCheck: 'check-circle',
   clipboard: '',
   clock: '',
   cloud: '',
