@@ -321,6 +321,7 @@ const mapping = {
   unlock: '',
   upload: '',
   usb: '',
+  vector: 'bezier',
   voicemail: '',
   volumeDown: '',
   volumeUp: '',
