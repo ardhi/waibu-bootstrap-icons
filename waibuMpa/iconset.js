@@ -119,6 +119,7 @@ const mapping = {
   eyeglasses: '',
   eyeSlash: '',
   fan: '',
+  favorite: 'heart',
   feather: '',
   file: 'file-earmark',
   fileAudio: 'file-earmark-music',
