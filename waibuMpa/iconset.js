@@ -279,6 +279,7 @@ const mapping = {
   shop: '',
   signin: 'box-arrow-in-right',
   signout: 'box-arrow-right',
+  signSplit: 'sign-intersection-y',
   signInfo: 'info-circle',
   signDanger: 'sign-stop',
   signWarning: 'exclamation-triangle',
