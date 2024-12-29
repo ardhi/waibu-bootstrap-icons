@@ -264,6 +264,7 @@ const mapping = {
   receipt: '',
   recycle: '',
   remove: 'x',
+  ruler: 'rulers',
   reply: '',
   replyAll: '',
   robot: '',
