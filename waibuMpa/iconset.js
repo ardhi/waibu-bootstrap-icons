@@ -291,7 +291,7 @@ const mapping = {
   snow: '',
   sort: 'sort-alpha-up',
   sortDesc: 'sort-alpha-down',
-  speedometer: '',
+  speedometer: 'speedometer2',
   star: '',
   stopwatch: '',
   strikethrough: 'type-strikethrough',
