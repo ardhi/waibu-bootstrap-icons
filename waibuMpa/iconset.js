@@ -333,6 +333,7 @@ const mapping = {
   volumeX: 'volume-mute',
   wallet: '',
   watch: '',
+  weather: 'cloud-rain-heavy',
   webcam: '',
   wifi: '',
   wifiSlash: 'wifi-off',
