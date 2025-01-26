@@ -1,6 +1,5 @@
 {
   "waibu": {
     "prefix": "bootstrap-icons"
-  },
-  "dependencies": ["waibu-mpa"]
+  }
 }
