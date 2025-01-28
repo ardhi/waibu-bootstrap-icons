@@ -258,7 +258,6 @@ const mapping = {
   projector: '',
   puzzle: '',
   qrcode: 'qr-code',
-  question: '',
   quote: '',
   radioactive: '',
   receipt: '',
