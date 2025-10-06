@@ -1,22 +1,44 @@
 # waibu-bootstrap-icons
 
-Plugin name: **waibuBootstrapIcons**, alias: **wbsi**
-
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-bootstrap-icons) ![NPM Version](https://img.shields.io/npm/v/waibu-bootstrap-icons)
 
-> <br />**Attention**: I do NOT accept any pull request at the moment, thanks!<br /><br />
+> <br />**Attention**: I do NOT accept any pull requests at the moment, thanks! ([Why?](https://github.com/ardhi/bajo/blob/main/tutorial/00-welcome.md#contribution))<br /><br />
 
-Bootstrap Icons support for [Waibu MPA](https://github.com/ardhi/waibu-mpa)
+Bootstrap icons for [Waibu Web Framework](https://github.com/ardhi/waibu)
 
 ## Installation
 
-Goto your ```<bajo-base-dir>``` and type:
+First, go to your ```{app-dir}``` and run the following command in your terminal:
 
 ```bash
-$ npm install waibu-bootstrap-icons
+$ npm install waibu-bootstrap-icons waibu-mpa waibu
 ```
 
-Now open your ```<bajo-data-dir>/config/.plugins``` and put ```waibu-bootstrap-icons``` in it.
+Next, open the file located at ```{data-dir}/config/.plugins``` and add ```waibu-bootstrap-icons``` , ```waibu-mpa``` and ```waibu```
+
+## Documentations
+
+- [Config Object](tutorial/00-config.md)
+- [API](https://ardhi.github.io/waibu-bootstrap-icons)
+
+## Hire Me
+
+If you have a Bajo Framework-based application project and need a professional service or assistance, please <a href="https://github.com/ardhi#pro-service">click here</a>. I'd be happy to work on it at a competitive price and with fast turnaround!
+
+## Support Me
+
+Please support me using the channels below. Your donation will motivate me to work faster and more diligently on future development.
+
+<a href="https://www.patreon.com/bajoframework">
+  <img src="https://img.shields.io/badge/Patreon-f2c3b2?style=flat&logo=patreon" height="50">
+</a>
+<a href="https://www.paypal.com/ncp/payment/EWLERL7SCUU64">
+  <img src="https://img.shields.io/badge/Paypal-blue?style=flat&logo=paypal" height="50">
+</a>
+
+<p>
+<div><img alt="bc1qwtv78cwp9ef8hnqaw84fxg5856l0pggqe32g6f" src="docs/static/bitcoin.jpeg" width="150" height="150" /><br>Bitcoin</div>
+</p>
 
 ## License
 
